@@ -1,2 +1,2 @@
 # rsAPI
-Python based API for OSRS
+Python based API for OSRS exchange values
